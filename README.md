@@ -46,4 +46,5 @@ Doğukan Zorlu Yönetim Bilişim Sistemleri
 
 - Ad Soyad / Numara
 - ahmet selim ağünlü / 220218007
+- a/1
   
