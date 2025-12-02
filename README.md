@@ -50,6 +50,5 @@ Doğukan Zorlu Yönetim Bilişim Sistemleri
 - bkjbk /wdqda
 
 -Şiyar DEMİR YBS
--aaaaa/2000020
--asdasd/226565
+-ababab / 2056515
   
